@@ -1,0 +1,28 @@
+{
+  "homeAccountId": "00000000-0000-0000-34b6-322000939f07.9188040d-6c67-4c5b-b112-36a304b66dad",
+  "environment": "login.windows.net",
+  "tenantId": "a73b1977-126f-4663-98b6-fefefe2b6332",
+  "username": "satake.yusuke.0527@gmail.com",
+  "localAccountId": "b16bbe4c-d628-435b-b3cd-8cacb6c31f82",
+  "name": "yusuke satake",
+  "authorityType": "MSSTS",
+  "tenantProfiles": {},
+  "idTokenClaims": {
+    "aud": "1c333ca0-9938-4800-9900-80e4b474ee46",
+    "iss": "https://login.microsoftonline.com/a73b1977-126f-4663-98b6-fefefe2b6332/v2.0",
+    "iat": 1730533419,
+    "nbf": 1730533419,
+    "exp": 1730537319,
+    "idp": "https://sts.windows.net/9188040d-6c67-4c5b-b112-36a304b66dad/",
+    "name": "yusuke satake",
+    "nonce": "0192ebd8-dc31-74dd-ac54-5a34ec386de0",
+    "oid": "b16bbe4c-d628-435b-b3cd-8cacb6c31f82",
+    "preferred_username": "satake.yusuke.0527@gmail.com",
+    "rh": "1.Ac8Adxk7p28SY0aYtv7-_itjMqA8Mxw4mQBImQCA5LR07kbPAPrPAA.",
+    "sub": "-mbQCU4ztPCBpxDsWitS7Za70mvdfOjZ1NOqKDwiITA",
+    "tid": "a73b1977-126f-4663-98b6-fefefe2b6332",
+    "uti": "VWEuOg7WHkOSgLDDG_0CAA",
+    "ver": "2.0"
+  },
+  "idToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjNQYUs0RWZ5Qk5RdTNDdGpZc2EzWW1oUTVFMCJ9.eyJhdWQiOiIxYzMzM2NhMC05OTM4LTQ4MDAtOTkwMC04MGU0YjQ3NGVlNDYiLCJpc3MiOiJodHRwczovL2xvZ2luLm1pY3Jvc29mdG9ubGluZS5jb20vYTczYjE5NzctMTI2Zi00NjYzLTk4YjYtZmVmZWZlMmI2MzMyL3YyLjAiLCJpYXQiOjE3MzA1MzM0MTksIm5iZiI6MTczMDUzMzQxOSwiZXhwIjoxNzMwNTM3MzE5LCJpZHAiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC85MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQvIiwibmFtZSI6Inl1c3VrZSBzYXRha2UiLCJub25jZSI6IjAxOTJlYmQ4LWRjMzEtNzRkZC1hYzU0LTVhMzRlYzM4NmRlMCIsIm9pZCI6ImIxNmJiZTRjLWQ2MjgtNDM1Yi1iM2NkLThjYWNiNmMzMWY4MiIsInByZWZlcnJlZF91c2VybmFtZSI6InNhdGFrZS55dXN1a2UuMDUyN0BnbWFpbC5jb20iLCJyaCI6IjEuQWM4QWR4azdwMjhTWTBhWXR2Ny1faXRqTXFBOE14dzRtUUJJbVFDQTVMUjA3a2JQQVByUEFBLiIsInN1YiI6Ii1tYlFDVTR6dFBDQnB4RHNXaXRTN1phNzBtdmRmT2paMU5PcUtEd2lJVEEiLCJ0aWQiOiJhNzNiMTk3Ny0xMjZmLTQ2NjMtOThiNi1mZWZlZmUyYjYzMzIiLCJ1dGkiOiJWV0V1T2c3V0hrT1NnTERER18wQ0FBIiwidmVyIjoiMi4wIn0.ZPx2wWgoSiB7pnsxCaE53JhC1UrBCp4H3oeb7nQTlar2i-tTvhaCVR3o5oLytKIN3jvns-5Y8sItwVN0Um65pNFGHsFEBRbcNUBJOxvP5eA5V6rG5zMnu0HdCF8kk7YaJzbHgtfdCUq50wcGTYL0h_Zq7E2IuI_lZ98aq6CkBXCj4sjsOhgNsL9p42655QJ4Sm0ky_Zl6zSU7k2cCadhmTbyDuUGIHf7vPysv9riIU6_P9rQbj6wE_DD4QfTFZIt4pdJR-B_bGaoXRHS3K7E32G27qwDJzy2V9PRkrUMDset2QGMpsqY4qZfFJ07JExc97iuBlVPh-dX3ovYTlBODA"
+}
