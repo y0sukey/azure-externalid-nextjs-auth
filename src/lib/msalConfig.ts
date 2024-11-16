@@ -1,8 +1,8 @@
 export const msalConfig = {
   auth: {
-    clientId: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', // Azure ポータルで取得したクライアントID
+    clientId: 'xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxx', // Azure ポータルで取得したクライアントID
     authority:
-      'https://login.microsoftonline.com/xxxxxxxxx-xxxxxxxxxxx-xxxxxxxxxxx', // テナントID
+      'https://login.microsoftonline.com/xxxx-xxxx-xxxx-xxxx-xxxx', // テナントID
     redirectUri: 'http://localhost:3000', // リダイレクトURI
   },
   cache: {
